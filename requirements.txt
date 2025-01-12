@@ -3,3 +3,4 @@ telegram
 groq
 requests
 python-telegram-bot
+python-dotenv
