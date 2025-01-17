@@ -1,0 +1,26 @@
+# Environment variables
+.env
+!.env.example
+
+# Conversation history
+conversation_history.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
